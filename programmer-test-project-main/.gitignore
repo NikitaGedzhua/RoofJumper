@@ -1,0 +1,36 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+OtherFiles/
+obj/
+UnityGenerated/
+Library/
+Debug/
+Builds/
+.vs/
+Assets/Test/
+Assets/Test.meta
+Assets/GameData/Test/
+Assets/GameData/Test.meta
+
+# ======================= #
+# Visual Studio generated #
+# ======================= #
+
+.vs/
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ======================= #
+# Project spesial         #
+# ======================= #
+
